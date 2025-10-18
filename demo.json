@@ -1,0 +1,23 @@
+[
+  {
+    json: {
+      name: "Eduardo Castro",
+      email: "castro2354@gmail.com",
+      company: "Company demo"
+    }
+  },
+  {
+    json: {
+      name: "Empresa #1",
+      email: "empresa1@radiologox.com",
+      company: "Empresa #1"
+    }
+  },
+  {
+    json: {
+      name: "Empresa #2 ",
+      email: "empresa2@radiologox.com",
+      company: "Empresa #2"
+    }
+  }
+]
