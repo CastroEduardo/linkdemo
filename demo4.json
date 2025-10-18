@@ -2,21 +2,21 @@
   {
     json: {
       name: "Eduardo Castro",
-      email: [{"castro2354@gmail.com","castro1@radx.com","castro2@radx.com",}]
+      emails: [{"castro2354@gmail.com","castro1@radx.com","castro2@radx.com"}]
       company: "Company demo"
     }
   },
   {
     json: {
       name: "Empresa #1",
-      email: "empresa1@radiologox.com",
+      emails: "empresa1@radiologox.com",
       company: "Empresa #1"
     }
   },
   {
     json: {
       name: "Empresa #2 ",
-      email: "empresa2@radiologox.com",
+      emails: "empresa2@radiologox.com",
       company: "Empresa #2"
     }
   }
