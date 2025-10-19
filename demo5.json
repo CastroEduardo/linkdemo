@@ -1,0 +1,27 @@
+[
+  {
+    company: "Empresa-Modelo",
+    emails: ["castro2354@gmail.com", "castro1@radx.com", "castro2@radx.com"],
+    privileges: ["All", "ADMIN"]
+  },
+  {
+    company: "TechCorp",
+    emails: ["ana@techcorp.com", "support@techcorp.com"],
+    privileges: ["USER"]
+  },
+  {
+    company: "MediSol",
+    emails: ["juanperez@medisol.com", "contact@medisol.com"],
+    privileges: ["USER", "MODERATOR"]
+  },
+  {
+    company: "DataSys",
+    emails: ["info@datasys.com", "admin@datasys.com"],
+    privileges: ["ADMIN"]
+  },
+  {
+    company: "InnovateX",
+    emails: ["ceo@innovatex.com", "hr@innovatex.com"],
+    privileges: ["ALL"]
+  }
+];
